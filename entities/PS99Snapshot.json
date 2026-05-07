@@ -1,0 +1,1 @@
+{  "type": "object",  "properties": {    "snapshot_key": {      "type": "string"    },    "data": {      "type": "object"    },    "updated_at": {      "type": "string"    }  },  "required": [],  "name": "PS99Snapshot"}
